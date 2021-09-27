@@ -1,4 +1,4 @@
-ольplugins {
+plugins {
     id 'java'
     id 'application'
 }
